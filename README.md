@@ -23,3 +23,9 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Ma
 <a href="https://github.com/Fmak95/DigitRecognizer/blob/master/DigitRecognizer.ipynb">Github</a>
 
 This was a competition on <a href="https://www.kaggle.com/c/digit-recognizer">Kaggle</a> in which we tried to recognize handwritten digits. This competition provided experience with convolutional neural networks and classical computer vision techniques. 
+
+# Natural Language Processing:
+## Bag of Words Meets Bag of Popcorn
+<a href="https://github.com/Fmak95/Bag-of-words-meet-bag-of-popcorn/tree/master/Notebooks">Github</a>
+
+In this notebook we try to identify if a movie review is positive or negative. This notebook gave me lots of experience with word modelling (Bag of Words, Word Vectors, idf) as well as deep learning practice (RNNs and LSTMs).
