@@ -14,6 +14,11 @@ This challenge was issued by Caterpillar: given a dataset containing multiple CS
 A classic machine learning problem: based on a variety of household features, predict the price of the house. General description and data are available on <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">Kaggle</a>. The dataset has a lot of features and many missing values. This gives interesting possibilities for feature transformation, data visualization, feature engineering and data imputation techniques.
 
 # Classification Problems
+## CareerCon 2019 - Help Navigate Robots
+<a href="https://github.com/Fmak95/CareerCon-2019/blob/master/CareerCon_2019.ipynb">Github</a>
+
+This was a recruitment competition on <a href="https://www.kaggle.com/c/career-con-2019">Kaggle</a>. Unfortunately I entered this competition after the deadline, but I still completed the challenge for some extra practice! Given IMU sensor information on robots, we were asked to determine the surface in which the robot was traversing on (carpet, wood, concrete...). I played around with a deep learning approach, tackling the problem with a fully connected, multi layer neural network. I also used some model evaluation techniques: cross-validation, precision/recall scores.
+
 ## Titanic: Machine Learning from Disaster
 <a href="https://github.com/Fmak95/Titanic-Machine-Learning-From-Disaster/blob/master/Titanic.ipynb">Github</a>
 
