@@ -3,7 +3,7 @@
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
 
 # Regression Problems
-## Caterpillar Tube Pricing (In Progress...)
+## Caterpillar Tube Pricing
 <a href="https://github.com/Fmak95/Caterpillar-Tube-Pricing/blob/master/Caterpillar_Tubes_Pricing.ipynb">Github</a>
 
 This challenge was issued by Caterpillar: given a dataset containing multiple CSV files that contained information pertaining tube assemblies, predict their price. General description and data are available on <a href="https://www.kaggle.com/c/caterpillar-tube-pricing">Kaggle</a>. Dataset consists of many files, so there is an additional challenge in combining the data and selecting the features.
