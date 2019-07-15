@@ -2,6 +2,12 @@
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
 
+# Data Exploration
+## Two Sigma Connect: Rental Listing Inquiries
+Github
+
+This kaggle challenge was issued by Two Sigma in which the goal was to classify a rental listing into one of three interest levels: "low/medium/high". General description and data is available on <a href="https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries">kaggle</a>. I perform an in-depth data exploration, visualize the data and search for insights. Findings are summarized in the notebook under the **Data Exploration Findings** section.
+
 # Regression Problems
 ## Caterpillar Tube Pricing
 <a href="https://github.com/Fmak95/Caterpillar-Tube-Pricing/blob/master/Caterpillar_Tubes_Pricing.ipynb">Github</a>
