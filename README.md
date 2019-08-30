@@ -2,6 +2,10 @@
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
 
+# Computer Vision
+## Graduate Research - Smartphone Keypoint Tracking
+<img src="./gifs/output.gif" width="40" height="40" />
+
 # Data Exploration
 ## Two Sigma Connect: Rental Listing Inquiries
 <a href="https://nbviewer.jupyter.org/github/Fmak95/RentalListingInquiries/blob/master/RentalListingInquiries.ipynb">nbviewer</a> <a href="https://github.com/Fmak95/RentalListingInquiries/blob/master/RentalListingInquiries.ipynb">Github</a>
