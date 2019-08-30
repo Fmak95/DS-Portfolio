@@ -3,9 +3,10 @@
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
 
 # Computer Vision
-## Graduate Research - Smartphone Keypoint Tracking
+## Graduate Research - Smartphone Keypoint Tracking (Work in Progress...)
 ![](https://drive.google.com/uc?export=view&id=18rtjxsE0KnDxFw549rLDpi-cTtBGuj9D)
-<img src="https://drive.google.com/uc?export=view&id=18rtjxsE0KnDxFw549rLDpi-cTtBGuj9D" width="480" height="480">
+
+As part of my graduate research I developed a point tracking algorithm that can detect a user's thumb when they are interacting with a smartphone. This point tracking algorithm is used as part of a data labelling pipeline to gather points of interest in videos similar to the one shown above. This algorithm has helped us cut down manual labelling costs by up to 80%.
 
 # Data Exploration
 ## Two Sigma Connect: Rental Listing Inquiries
