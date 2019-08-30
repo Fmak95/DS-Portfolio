@@ -5,7 +5,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 # Computer Vision
 ## Graduate Research - Smartphone Keypoint Tracking
 ![](https://drive.google.com/uc?export=view&id=18rtjxsE0KnDxFw549rLDpi-cTtBGuj9D)
-<img src="https://github.com/favicon.ico" width="480" height="480">
+<img src="https://drive.google.com/uc?export=view&id=18rtjxsE0KnDxFw549rLDpi-cTtBGuj9D" width="480" height="480">
 
 # Data Exploration
 ## Two Sigma Connect: Rental Listing Inquiries
