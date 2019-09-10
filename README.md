@@ -8,6 +8,17 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 As part of my graduate research I developed a point tracking algorithm that can detect a user's thumb when they are interacting with a smartphone. This point tracking algorithm is used as part of a data labelling pipeline to gather points of interest in videos similar to the one shown above. This algorithm has helped us cut down manual labelling costs by up to 80%.
 
+# Natural Language Processing:
+## Bag of Words Meets Bag of Popcorn
+<a href="https://nbviewer.jupyter.org/github/Fmak95/Bag-of-words-meet-bag-of-popcorn/tree/master/Notebooks/">nbviewer</a> <a href="https://github.com/Fmak95/Bag-of-words-meet-bag-of-popcorn/tree/master/Notebooks">Github</a>
+
+In this notebook I try to identify if a movie review is positive or negative. This notebook gave me lots of experience with word modelling (Bag of Words, Word Vectors, idf) as well as deep learning practice (RNNs and LSTMs).
+
+## Data Science Job Market Analysis
+<a href="https://nbviewer.jupyter.org/github/Fmak95/DataScience_JobMarket_Analysis/blob/master/notebooks/exploration.ipynb">nbviewer</a> <a href="https://github.com/Fmak95/DataScience_JobMarket_Analysis">Github</a>
+
+For this project, I gathered job posting data online by creating a web scraper and then performed analysis to gain insights about what skills are most sought after.
+
 # Data Exploration
 ## Two Sigma Connect: Rental Listing Inquiries
 <a href="https://nbviewer.jupyter.org/github/Fmak95/RentalListingInquiries/blob/master/RentalListingInquiries.ipynb">nbviewer</a> <a href="https://github.com/Fmak95/RentalListingInquiries/blob/master/RentalListingInquiries.ipynb">Github</a>
@@ -40,9 +51,3 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Ma
 <a href="https://nbviewer.jupyter.org/github/Fmak95/DigitRecognizer/blob/master/DigitRecognizer.ipynb">nbviewer</a> <a href="https://github.com/Fmak95/DigitRecognizer/blob/master/DigitRecognizer.ipynb">Github</a>
 
 This was a competition on <a href="https://www.kaggle.com/c/digit-recognizer">Kaggle</a> in which we tried to recognize handwritten digits. This competition provided experience with convolutional neural networks and classical computer vision techniques. 
-
-# Natural Language Processing:
-## Bag of Words Meets Bag of Popcorn
-<a href="https://nbviewer.jupyter.org/github/Fmak95/Bag-of-words-meet-bag-of-popcorn/tree/master/Notebooks/">nbviewer</a> <a href="https://github.com/Fmak95/Bag-of-words-meet-bag-of-popcorn/tree/master/Notebooks">Github</a>
-
-In this notebook we try to identify if a movie review is positive or negative. This notebook gave me lots of experience with word modelling (Bag of Words, Word Vectors, idf) as well as deep learning practice (RNNs and LSTMs).
