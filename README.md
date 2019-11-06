@@ -4,8 +4,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 # Computer Vision
 ## Graduate Research - Smartphone Keypoint Tracking (Work in Progress...)
-<img src = "https://i.imgur.com/vNGLtcY.gifv"/>
-![](https://i.imgur.com/vNGLtcY.gifv)
+<img src = "https://imgur.com/vNGLtcY" />
 
 As part of my graduate research I developed a point tracking algorithm that can detect a user's thumb when they are interacting with a smartphone. This point tracking algorithm is used as part of a data labelling pipeline to gather points of interest in videos similar to the one shown above. This algorithm has helped us cut down manual labelling costs by up to 80%.
 
