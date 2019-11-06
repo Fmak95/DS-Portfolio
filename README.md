@@ -4,7 +4,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 # Computer Vision
 ## Graduate Research - Capturing User Biometrics using Computer Vision and Deep Learning (Work in Progress...)
-<img src = "./Pics/Heatmaps_Three_Stages.png" />
+<img src = "./Pics/Heatmaps_Three_Stages.png" height="250" width="250"/>
 
 As part of my graduate research I am working on a new method of capturing touch biometrics of smartphone interactions using a computer vision approach. The idea is simple, given a recording of a user interacting with their phone, we can use computer vision and deep learning techniques to figure out what they are typing. We treat this as a heatmap regression problem, in which I implemented my own deep learning model that was inspired by "Convolutional Pose Machines" and "Fully Convolutional Networks". The picture above shows our results for the heatmap regressor at various different stages of our model.
 
