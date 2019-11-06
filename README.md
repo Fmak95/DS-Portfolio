@@ -3,10 +3,10 @@
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
 
 # Computer Vision
-## Graduate Research - Smartphone Keypoint Tracking (Work in Progress...)
+## Graduate Research - Capturing User Biometrics using Computer Vision and Deep Learning (Work in Progress...)
 <img src = "https://imgur.com/vNGLtcY" />
 
-As part of my graduate research I developed a point tracking algorithm that can detect a user's thumb when they are interacting with a smartphone. This point tracking algorithm is used as part of a data labelling pipeline to gather points of interest in videos similar to the one shown above. This algorithm has helped us cut down manual labelling costs by up to 80%.
+As part of my graduate research I am working on a new method of capturing touch biometrics of smartphone interactions using a computer vision approach. The idea is simple, given a recording of a user interacting with their phone, we can use computer vision and deep learning techniques to figure out what they are typing. We treat this as a heatmap regression problem, in which I implemented my own deep learning model that was inspired by "Convolutional Pose Machines" and "Fully Convolutional Networks". The picture above shows our results for the heatmap regressor at various different stages of our model.
 
 # Natural Language Processing:
 ## Bag of Words Meets Bag of Popcorn
